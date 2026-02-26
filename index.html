@@ -1,47 +1,93 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Bookster's Hub</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FractalMouth</title>
+
   <style>
     body {
-      font-family: Comic Sans MS;
-      background-color: #f4f4f4;
       margin: 0;
-      padding: 20px;
+      background-color: #111;
+      color: #f0f0f0;
+      font-family: Arial, sans-serif;
     }
+
     header {
-      background-color: #333;
-      color: white;
-      padding: 10px;
       text-align: center;
+      padding: 50px 20px;
+      background-color: #1a1a1a;
+      border-bottom: 1px solid #333;
     }
+
+    h1 {
+      margin: 0;
+      font-size: 40px;
+    }
+
     main {
-      margin-top: 20px;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    .project {
+      background-color: #1c1c1c;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      border: 1px solid #2a2a2a;
+    }
+
+    .project a {
+      color: #4da6ff;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    .project a:hover {
+      text-decoration: underline;
+    }
+
+    .description {
+      margin-top: 8px;
+      color: #bbb;
+      font-size: 14px;
     }
   </style>
 </head>
+
 <body>
+
   <header>
-    <h1>Bookster's Hub</h1>
+    <h1>FractalMouth</h1>
+    <p>Projects and tools.</p>
   </header>
+
   <main>
-    <body style="background-color: black; color: white;">
-<div>
-<h>This is where my projects and tools are!</h>  
-<div>
-  <p>---</p>
-<div>
-<a href="ISS tracker.html">ISS tracker</a>
-  <p>Tracks the ISS</p> 
-    <p>---</p>
-<a href="Custom Image Tools.html">S-Paint Tools</a>
-  <p>Some tools for SPaint</p> 
-<div>
+
+    <div class="project">
+      <a href="ISS tracker.html">ISS Tracker: (Currently broken)</a>
+      <div class="description">Tracks the ISS.</div>
+    </div>
+
+    <div class="project">
+      <a href="Custom Image Tools.html">S-Paint Tools</a>
+      <div class="description">Tools for SPaint.</div>
+    </div>
+
+    
+    <div class="project">
+      <a href="Custom Image Tools.html">Get Checked</a>
+      <div class="description">Ultimate chess game: (Coming soon!).</div>
+    </div>
+
   </main>
-<script>
-  console.log("Why do you people hate COMIC-SANS so much? I don't get it.");
-</script>
-    </body>
+
+  <script>
+    console.log("FractalMouth initialized.");
+  </script>
+
+</body>
 </html>
