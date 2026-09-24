@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Zelda Timeline</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel&display=swap" rel="stylesheet">
+
+    <style>
+
+        body {
+            background-color: #172617;
+            color: #d8d0b0;
+            font-family: Arial, sans-serif;
+        }
+
+        h1, h2, h3 {
+            font-family: Cinzel, serif;
+            color: #d6b94c;
+        }
+
+        a {
+            color: #d6b94c;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<center>
+
+    <h1>The Legend of Zelda Timeline</h1>
+
+    <p>
+        Welcome to my Zelda timeline website.
+    </p>
+
+    <p>
+        <a href="#beginning">Beginning</a> |
+        <a href="#split">Timeline Split</a> |
+        <a href="#child">Child Timeline</a> |
+        <a href="#adult">Adult Timeline</a> |
+        <a href="#fallen">Fallen Hero Timeline</a>
+    </p>
+
+</center>
+
+<hr>
+
+
+<h2 id="beginning">The Beginning</h2>
+
+<h3>Skyward Sword</h3>
+
+<img
+    src="https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Legend_of_Zelda_Skyward_Sword.png"
+    width="300"
+    alt="Skyward Sword"
+>
+
+<p>
+    Skyward Sword takes place near the beginning of the Zelda timeline.
+    Link lives in Skyloft and eventually discovers the land below.
+</p>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Read More
+</button>
+
+
+<h3>The Minish Cap</h3>
+
+<p>
+    Link meets the Picori and has to stop Vaati from causing trouble
+    in Hyrule.
+</p>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Game Information
+</button>
+
+
+<h3>Four Swords</h3>
+
+<p>
+    Link uses the Four Sword to split into four different Links
+    and fight Vaati.
+</p>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Read About Four Swords
+</button>
+
+
+<h3>Ocarina of Time</h3>
+
+<img
+    src="https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Legend_of_Zelda_Ocarina_of_Time.svg"
+    width="300"
+    alt="Ocarina of Time"
+>
+
+<p>
+    Link travels through time and fights Ganondorf.
+    This is where the timeline splits into different paths.
+</p>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Timeline Information
+</button>
+
+
+<hr>
+
+
+<center>
+
+    <h2 id="split">The Timeline Splits</h2>
+
+    <p>
+        After Ocarina of Time, the timeline continues in different directions.
+    </p>
+
+</center>
+
+
+<h2 id="child">Child Timeline</h2>
+
+<h3>Majora's Mask</h3>
+
+<p>
+    Link travels to Termina and becomes involved in the strange events
+    surrounding the moon.
+</p>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Read Story
+</button>
+
+
+<h3>Twilight Princess</h3>
+
+<img
+    src="https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Legend_of_Zelda_Twilight_Princess.png"
+    width="300"
+    alt="Twilight Princess"
+>
+
+<p>
+    Link becomes involved with the Twilight Realm and has to save Hyrule.
+</p>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Learn More
+</button>
+
+
+<h3>Four Swords Adventures</h3>
+
+<p>
+    Link once again has to deal with Vaati and another dangerous threat.
+</p>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    View Game
+</button>
+
+
+<hr>
+
+
+<h2 id="adult">Adult Timeline</h2>
+
+<h3>The Wind Waker</h3>
+
+<img
+    src="https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Legend_of_Zelda_The_Wind_Waker.svg"
+    width="300"
+    alt="The Wind Waker"
+>
+
+<p>
+    Hyrule has been flooded and most of the world is now covered
+    by the Great Sea.
+</p>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Explore The Great Sea
+</button>
+
+
+<h3>Phantom Hourglass</h3>
+
+<p>
+    Link continues his journey across the Great Sea.
+</p>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Read More
+</button>
+
+
+<h3>Spirit Tracks</h3>
+
+<p>
+    A new Hyrule is established in a new land.
+</p>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    View Spirit Tracks
+</button>
+
+
+<hr>
+
+
+<h2 id="fallen">Fallen Hero Timeline</h2>
+
+<h3>A Link to the Past</h3>
+
+<p>
+    Link travels between the Light World and the Dark World
+    to save Hyrule.
+</p>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Explore The Dark World
+</button>
+
+
+<h3>Link's Awakening</h3>
+
+<p>
+    Link wakes up on the mysterious island of Koholint.
+</p>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    View Island Map
+</button>
+
+
+<h3>A Link Between Worlds</h3>
+
+<p>
+    Link discovers the parallel world of Lorule.
+</p>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Compare Worlds
+</button>
+
+
+<hr>
+
+
+<h2>Other Zelda Games</h2>
+
+<ul>
+
+    <li>The Legend of Zelda</li>
+    <li>Zelda II: The Adventure of Link</li>
+    <li>Oracle of Ages</li>
+    <li>Oracle of Seasons</li>
+    <li>The Wind Waker</li>
+    <li>Twilight Princess</li>
+    <li>Skyward Sword</li>
+    <li>Breath of the Wild</li>
+    <li>Tears of the Kingdom</li>
+
+</ul>
+
+
+<h2>Search the Timeline</h2>
+
+<p>
+    Search for a Zelda game, character, or location.
+</p>
+
+<form
+    onsubmit="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'; return false;"
+>
+
+    <input
+        type="text"
+        placeholder="Search..."
+        size="30"
+    >
+
+    <input
+        type="submit"
+        value="Search"
+    >
+
+</form>
+
+
+<h2>More Information</h2>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Characters
+</button>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Hyrule History
+</button>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Master Sword
+</button>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Triforce
+</button>
+
+<button onclick="location.href='https://youtu.be/dQw4w9WgXcQ?si=YMYQqvIKjl-xPul9'">
+    Random Game
+</button>
+
+
+<hr>
+
+<p>
+    Zelda Timeline Fan Site
+</p>
+
+<p>
+    Last updated 2026
+</p>
+
+</body>
+
+</html>
